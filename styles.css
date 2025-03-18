@@ -1,0 +1,48 @@
+.body{
+    position: 200px;
+}
+
+button{
+    padding: 25px;
+    margin: 50px;
+    background-color: brown;
+    border: dashed 10px darkred;
+    color: darkcyan;
+    
+}
+
+.highlight{
+    size: 2em;
+    color: brown;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+
+}
+
+.orange{
+    color: rgb(255, 153, 0);
+
+}
+
+.font10{
+    font-size: 10em;
+
+}
+#exampleID{
+    background-color: burlywood;
+}
+
+.reletive{
+    position: relative;
+}
+
+.green{
+    color: rgb(1, 73, 1);
+}
+
+.fixed{
+    position: fixed;
+    left: 200px;
+    top: 1px;
+}
